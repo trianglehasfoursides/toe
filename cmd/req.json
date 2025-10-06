@@ -1,0 +1,32 @@
+{
+  "title": "Halo",
+  "questions": [
+    {
+      "text": "Apa pendapat Anda tentang layanan kami?",
+      "type": "text"
+    },
+    {
+      "text": "Pilih produk yang pernah Anda gunakan",
+      "type": "checkbox",
+      "options": [
+        { "text": "Produk A" },
+        { "text": "Produk B" },
+        { "text": "Produk C" }
+      ]
+    },
+    {
+      "text": "Bagaimana Anda mengetahui brand kami?",
+      "type": "radio",
+      "options": [
+        { "text": "Media Sosial" },
+        { "text": "Teman/keluarga" },
+        { "text": "Iklan" }
+      ]
+    },
+    {
+      "text": "Berikan kritik dan saran Anda",
+      "type": "textarea"
+    }
+  ]
+}
+
